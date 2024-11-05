@@ -1,6 +1,4 @@
-# Cownalysis
-
-# Team 27 Project Cattle Ranch Management Software
+# CMPT 370 Team 27 Project: Cattle Ranch Management Software
 
 ## Wiki
 **Authors and Information**

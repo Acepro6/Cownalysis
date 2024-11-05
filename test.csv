@@ -1,0 +1,9 @@
+COW ID, Tag, DoB, DoD, Sex, Type, Sire ID, Dam ID, Weight, Last Weight Date
+1,F39,2000-10-22,,Female,Cow,3,2,992.0,2022-11-19
+2,E3,2001-10-22,,Female,Heifer,,,No Weight Data,
+3,E32,2004-10-22,,Male,Bull,,,No Weight Data,
+4,A13,2003-10-22,,Male,Steer,3,2,No Weight Data,
+5,D3,2004-10-22,,Female,Cow,3,2,No Weight Data,
+6,B2,2005-10-22,,Female,Heifer,3,2,No Weight Data,
+7,F49,2006-10-22,,Male,Bull,3,2,No Weight Data,
+8,C19,2007-10-22,,Male,Steer,3,2,114.5,2022-10-24

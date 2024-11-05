@@ -1,0 +1,4 @@
+Cow ID,Procedure,Date,Reason,Product,Dosage,Route,Notes
+432235,Vaccination,23/10/2022,Unvaccinated Cow,Vaccine Gen 1,100mg,Intermuscular Injection,Everything went well
+632234,AntiBiotic Administered,20/10/2022,Sick Cow,Penicillin,50mg,Oral Pill,"Cow shows improved symptoms, give pills 1 per 24 hours"
+542322,Insert Procedure,When,Why,What,How much,Where,Extra Stuff
